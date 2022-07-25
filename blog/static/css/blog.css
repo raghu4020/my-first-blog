@@ -1,5 +1,5 @@
 .page-header {
-    background-color: #C25100;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
     margin-top: 0;
     margin-bottom: 40px;
     padding: 20px 20px 20px 40px;
@@ -9,7 +9,7 @@
 .page-header h1 a,
 .page-header h1 a:visited,
 .page-header h1 a:active {
-    color: #ffffff;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
     font-size: 36pt;
     text-decoration: none;
 }
@@ -59,12 +59,12 @@ h4 {
 
 .btn-secondary,
 .btn-secondary:visited {
-    color: #C25100;
+    color: #DB7093;
     background: none;
-    border-color: #C25100;
+    border-color: #DB7093;
 }
 
 .btn-secondary:hover {
     color: #FFFFFF;
-    background-color: #C25100;
+    background-color: #DB7093;
 }
